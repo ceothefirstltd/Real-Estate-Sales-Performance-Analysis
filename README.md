@@ -30,15 +30,22 @@ This project provides a comprehensive analysis of sales performance, market tren
 Data provided by the company
 
 ### Tools
+
 *Excel- for data cleaning
+
 *Power bi- for data visualization
 
 ### Data Preparation
 The following task were carried out in other to prepare the data for analysis.
+
 *Data Loading and inspection
+
 *Organisation of Data
+
 *handling missing Values
+
 *Data Cleaning 
+
 *Data Formatting
 
 ### Exploratory Data Analysis
