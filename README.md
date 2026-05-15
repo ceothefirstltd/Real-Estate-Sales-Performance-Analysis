@@ -26,6 +26,17 @@
 
 This project provides a comprehensive analysis of sales performance, market trends, and predictive risks. the project outlines the Portfolio Performance,Market Dynamics, Regional Trends and gives Predictive Insights. 
 
+<img width="100%" height="692" alt="Screenshot 2026-05-15 at 16 54 00" src="https://github.com/user-attachments/assets/878e3041-753d-476d-a0a5-e8d59c5b6617" />
+
+<img width="100%" height="692" alt="1" src="https://github.com/user-attachments/assets/9d843a35-0227-4825-801e-db57998a53a9" />
+
+<img width="100%" height="691" alt="3" src="https://github.com/user-attachments/assets/70a56ee3-cecd-4a8e-bce3-f25f1e8f0a76" />
+
+<img width="100%" height="697" alt="2" src="https://github.com/user-attachments/assets/1b7e0785-b728-4073-9fdd-73a5fe176e75" />
+
+
+
+
 ### Data Source
 Data provided by the company
 
